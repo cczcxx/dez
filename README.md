@@ -1,2 +1,2 @@
-# dez
-This repository is for Data Engineering Zommcamp.
+# homework
+This branch is for submitting assignments for the Data Engineering Zoomcamp.
